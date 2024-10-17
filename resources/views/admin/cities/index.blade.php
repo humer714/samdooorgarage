@@ -34,7 +34,6 @@
                             <th>Title</th>
                             <th>status</th>
                             <th>State</th>
-                            <th>Image</th>
 
                             <th class="text-center">Action</th>
                         </tr>
@@ -50,8 +49,6 @@
                                 <td>{{ $item->title }}</td>
                                 <td>{{ $item->status }}</td>
                                 <td>{{ $item->state->title }}</td>
-                                <td><img src="{{ $item->image }}" width="20px"></td>
-
                                 <td class="text-center">
                                     <div class="btn-group">
 
