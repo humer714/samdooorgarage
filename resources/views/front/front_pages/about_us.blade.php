@@ -44,10 +44,10 @@
                     <div class="about-content-wrapper wow fadeInUp" data-wow-delay=".4s">
                         <div class="section-title">
                             <h6>About Us</h6>
-                            <h2>We're the Top <br><b>Filling Station</b> in Downdown</h2>
+                            <h2>Quality Garage Door <br><b>Opener Services Near</b> You</h2>
                         </div>
-                        <p>Fuel ennovation for freight plan Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos
-                            natus ipsam ea vero placeat? Quia consequuntur odio nemo incidunt, perferendis. </p>
+                        <p>Since 1995, we have focused on delivering outstanding service, emphasizing communication and
+                             a keen attention to detail to ensure our clients receive the highest value in every interaction.</p>
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="key-feature">
@@ -130,7 +130,7 @@
                 <div class="col-lg-6">
                     <div class="section-title">
                         <h6>Best Feature</h6>
-                        <h2 class="section-heading">Great Experience of<b> <br>Vehicle</b> Services</h2>
+                        <h2 class="section-heading">Top-Notch Garage Door<b> <br>Services</b> Guaranteed</h2>
                     </div>
                     <p class="highlight mb-20">The Most Popular courier & delivery service provider. We are served domestic
                         and over world wide.</p>
