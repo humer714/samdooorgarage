@@ -195,19 +195,17 @@
                     <div class="client-carousel owl-carousel">
                         <div class="single-client-item " style="background: #f6f6f6;">
                             <div class="testimonial-icon"><i class="las la-quote-left"></i></div>
-                            <p>Tempore, cum soluta nobis est opio
-                                cumque nihil impedit quo minus ide
-                                maxime placeat facere possimus
-                                nis voluptas assumenda est, omni
-                                dolor repellendus emoribus autem
-                                quibusdam et aut officiis.
+                            <p>I had a broken garage door opener and Sam Garage Door Opener Repair
+                                Replacement was fantastic. They were quick to respond,
+                                and the technician who came out was very knowledgeable.
+                                They repaired the opener in no time. Highly recommend their services!
                             </p>
                             <div class="testimonial-author">
                                 <div class="author-img">
                                     <img src="{{ asset('front/asset2/img/testimonial/1.jpg') }}" alt="">
                                 </div>
                                 <div class="author-desc">
-                                    <h5>Paul Scholes</h5><span>Customer</span>
+                                    <h5>Ramon Vicente</h5><span>Customer</span>
                                 </div>
                             </div>
 
@@ -216,56 +214,46 @@
 
                         <div class="single-client-item " style="background: #f6f6f6;">
                             <div class="testimonial-icon"><i class="las la-quote-left"></i></div>
-                            <p>Doloremue laudantium totam
-                                rem aperiam eaque iesa zuae
-                                ab illo inventore veritatis et ua
-                                i architecto beatae vitae dicta
-                                sunt explicabo nemo am voluptatem vitae dicta
-                                suntruia.enim is
-                                am voluptatem ruia.</p>
+                            <p>Sam Garage Door Opener Repair Replacement did a fantastic job troubleshooting and fixing my garage door remote.
+                                The technician was professional and friendly, and the price was fair.
+                                I’ll definitely call them again for any future repairs.</p>
                             <div class="testimonial-author">
                                 <div class="author-img">
                                     <img src="{{ asset('front/asset2/img/testimonial/2.jpg') }}" alt="">
                                 </div>
                                 <div class="author-desc">
-                                    <h5>Monica Lisa</h5><span>Customer</span>
+                                    <h5>Natosha Jacobs</h5><span>Customer</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="single-client-item" style="background: #f6f6f6;">
                             <div class="testimonial-icon"><i class="las la-quote-left"></i></div>
-                            <p>Nam libero tempore, cum soluta nobi
-                                est eligendi optio cumque nihil impeit
-                                quo minus id quod maxime placeat
-                                facere possimus, omnis voluptas ass
-                                umenda est, omnis dolor repellendus
-                                emporibus autem zrosi.</p>
+                            <p>Our garage door opener was making strange noises, so we contacted
+                                Sam Garage Door Opener Repair Replacement for maintenance.
+                                They did a thorough job and the opener is working smoothly now.
+                                Definitely a reliable company.</p>
                             <div class="testimonial-author">
                                 <div class="author-img">
                                     <img src="{{ asset('front/asset2/img/testimonial/3.jpg') }}" alt="">
                                 </div>
                                 <div class="author-desc">
-                                    <h5>Ryans Gigs</h5><span>Customer</span>
+                                    <h5>Betty Clark</h5><span>Customer</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="single-client-item" style="background: #f6f6f6;">
                             <div class="testimonial-icon"><i class="las la-quote-left"></i></div>
-                            <p>Doloremue laudantium totam
-                                rem aperiam eaque iesa zuae
-                                ab illo inventore veritatis et ua
-                                i architecto beatae vitae dicta
-                                sunt explicabo nemo am voluptatem vitae dicta
-                                suntruia.enim is
-                                am voluptatem ruia.</p>
+                            <p>I had an issue with my garage door motor, and Sam Garage Door Opener Repair Replacement fixed it right away.
+                                Their technician was efficient and very knowledgeable.
+                                I would recommend them to anyone needing garage door repairs.</p>
                             <div class="testimonial-author">
                                 <div class="author-img">
                                     <img src="{{ asset('front/asset2/img/testimonial/4.jpg') }}" alt="">
                                 </div>
                                 <div class="author-desc">
-                                    <h5>Sarah Fatima</h5><span>Customer</span>
+                                    <h5>Louise Powell</h5><span>Customer</span>
                                 </div>
                             </div>
                         </div>
