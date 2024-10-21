@@ -50,14 +50,14 @@
                         <div class="contact-us-inner">
                             <div class="info-i"><span><i class="las la-mobile"></i></span></div>
                             <h5>Phone Number</h5>
-                            <p>(+1)212-946-2064 <br>(+3)112-976-2067</p>
+                            <p> 888-850-7594 <br>866-982-4629</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-12">
                         <div class="contact-us-inner">
                             <div class="info-i"><span><i class="las la-envelope"></i></span></div>
                             <h5>E-mail Address</h5>
-                            <p>info@expoint.com<br>info@webmail.com</p>
+                            <p>Support@customerdeskhelp.com<br>Support@customerdeskhelp.com</p>
                         </div>
                     </div>
                 </div>

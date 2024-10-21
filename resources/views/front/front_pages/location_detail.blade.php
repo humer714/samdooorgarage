@@ -51,8 +51,8 @@
                         <div class="choose-us-icon">
                             <img src="{{ asset('front/asset2/img/icon/oil.png') }}" alt="">
                         </div>
-                        <h5>100% Pure Fuel</h5>
-                        <p>We help you find a architect by offering interior experience</p>
+                        <h5>100% Reliable Repair</h5>
+                        <p>Trustworthy garage door repair solutions every time</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12" style="padding-right:5px">
@@ -60,8 +60,8 @@
                         <div class="choose-us-icon">
                             <img src="{{ asset('front/asset2/img/icon/meter-checker.png') }}" alt="">
                         </div>
-                        <h5>Accurate Meter</h5>
-                        <p>We help you find a architect by offering interior experience</p>
+                        <h5>Door Repair Masters</h5>
+                        <p>Your garage door repair experts, always ready</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12" style="padding-right:5px">
@@ -70,7 +70,7 @@
                             <img src="{{ asset('front/asset2/img/icon/low-rate.png') }}" alt="">
                         </div>
                         <h5>Flat Rate Fees</h5>
-                        <p>We help you find a architect by offering interior experience</p>
+                        <p>Clear, fixed pricing for all garage door repair and installation.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12">
@@ -79,7 +79,7 @@
                             <img src="{{ asset('front/asset2/img/icon/24-hours.png') }}" alt="">
                         </div>
                         <h5>24/7 Support</h5>
-                        <p>We help you find a architect by offering interior experience</p>
+                        <p>Round-the-clock garage door Opener repair services, every day of the year.</p>
                     </div>
                 </div>
             </div>
