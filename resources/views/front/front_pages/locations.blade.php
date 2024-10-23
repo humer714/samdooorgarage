@@ -104,7 +104,7 @@
         grid-gap: 0 2rem;
         border: 2px solid #f4f4f4;
         display: grid;
-        gap: 0 2rem;
+        gap: 0 1rem;
         margin-top: 0.125rem;
     }
 
