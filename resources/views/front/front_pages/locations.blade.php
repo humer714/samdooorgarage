@@ -179,7 +179,8 @@
 
     .product-explorer-main-offerings .product-detail__product {
         /* padding: 1rem 1rem 1rem 0; */
-        font-size: 12px
+        font-size: 12px ;
+        border-block: inherit;
     }
 
     .product-explorer-main-offerings .product-detail__long-description {
@@ -321,7 +322,7 @@
                     @foreach ($item->cities as $city)
                     <div class="product-detail__product">
                         <a href="{{ route('location_detail', $city->slug) }}"
-                            style="color:red !important;">{{ $city->title ?? '' }}</a>
+                            style="color:#FF9999">{{ $city->title ?? '' }}</a>
                     </div>
                     @endforeach
                 </div>
