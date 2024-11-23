@@ -92,7 +92,6 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="single-service">
-                    <h2>{{ $detail_data->title ?? '' }}</h2>
                     <p>{!! $detail_data->description !!}</p>
 
                 </div>
