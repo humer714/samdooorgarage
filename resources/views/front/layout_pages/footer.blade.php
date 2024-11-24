@@ -13,15 +13,12 @@
                 </div>
                 <div class="col-lg-2 col-md-6">
                     <h5>Office</h5>
-                    <p>Corporate Office- <br>
-                        175 24th Street, OT- 35
-                        London, UK 265
-                    </p>
+                    <p>United States</p>
                     <div class="company-email">
-                        <a href="#">info@roofix.com</a>
+                        <a href="#">Support@customerdeskhelp.com</a>
                     </div>
                     <div class="phone-number">
-                        <p>+18-4675826</p>
+                        <p>+1 (888) 850-7594</p>
                     </div>
 
                 </div>

@@ -106,7 +106,7 @@
             <div class="offset-lg-2 col-lg-8 text-center">
                 <div class="section-title">
                     <h6>Services</h6>
-                    <h2>Expert Service for<br> all type of <b>Garage Door</b>  Openers</h2>
+                    <h2>Expert Service for<br> all type of Garage Door  Openers</h2>
                 </div>
             </div>
         </div>

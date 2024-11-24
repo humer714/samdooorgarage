@@ -52,7 +52,7 @@
                             <img src="{{ asset('front/asset2/img/icon/oil.png') }}" alt="">
                         </div>
                         <h5>100% Reliable Repair</h5>
-                        <p>Trustworthy garage door repair solutions every time</p>
+                        <p>Trustworthy garage door repair solutions every time,  when you  need</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12" style="padding-right:5px">
@@ -61,7 +61,7 @@
                             <img src="{{ asset('front/asset2/img/icon/meter-checker.png') }}" alt="">
                         </div>
                         <h5>Door Repair Masters</h5>
-                        <p>Your garage door repair experts, always ready</p>
+                        <p>Your garage door repair experts, always ready to help you</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-12" style="padding-right:5px">
@@ -164,7 +164,7 @@
             <div class="offset-lg-2 col-lg-8 text-center">
                 <div class="section-title">
                     <h6>Services</h6>
-                    <h2>Best Service for <br> all type of <b>Electric</b> vehicles</h2>
+                    <h2>Expert Service for <br> all type of Garage Door <br> Openers</h2>
                 </div>
             </div>
         </div>
