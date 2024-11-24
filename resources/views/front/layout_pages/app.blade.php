@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ trim($__env->yieldContent('meta_title', 'Pros Chimney cleaning')) }} - Pros Chimney cleaning</title>
+    <title>{{ trim($__env->yieldContent('meta_title', 'Sam Garage Door')) }} - Sam Garage Door</title>
     <meta name="keywords" content="{{ trim($__env->yieldContent('meta_tags', 'Default meta Keywords')) }}" />
     <meta name="description" content="{{ trim($__env->yieldContent('meta_description', 'Default meta description')) }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1">

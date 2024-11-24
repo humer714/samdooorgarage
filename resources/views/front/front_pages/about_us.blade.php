@@ -5,10 +5,10 @@
 {{ __('About Us') }}
 @endsection
 @section('meta_tags')
-{{ __('About Us, proschimneyclening') }}
+{{ __('About Us, Sam Garage Door') }}
 @endsection
 @section('meta_description')
-{{ __('Pros Chimney Cleaning is committed to quality customer service and practical, repeatable results in chimney sweeping, air duct cleaning.') }}
+{{ __('Garage Door Revolution, in modern times, marks the shift from manual garage door operation to one dominated by advanced automatic door opener systems and repair services.') }}
 @endsection
 
 @section('content')

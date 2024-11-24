@@ -3,10 +3,10 @@
 {{ __('Home') }}
 @endsection
 @section('meta_tags')
-{{ __('Home, proschimneyclening') }}
+{{ __('Home, Sam Garage Door') }}
 @endsection
 @section('meta_description')
-{{ __('Pros Chimney Cleaning is the #1 choice for all your Chimney and air duct needs. Our expert techs have been repairing and cleaning chimneys throughout Houston') }}
+{{ __('Garage Door Revolution, in modern times, marks the shift from manual garage door operation to one dominated by advanced automatic door opener systems and repair services.') }}
 @endsection
 
 
