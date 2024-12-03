@@ -64,6 +64,17 @@
         </div>
     </div>
 </div>
+<style>
+    .form-check {
+        display: flex;
+        /* Ensures the checkbox and label are aligned in a row */
+        /* align-items: center; */
+        /* Vertically aligns checkbox and label */
+        gap: 5px;
+       
+    }
+
+</style>
 
 <div id="contact-page" class="contact-section blue-bg section-padding">
     <div class="overlay-2"></div>
@@ -90,10 +101,55 @@
                                     <input type="email" class="email" id="eemail" placeholder="Email"
                                         name="email" required>
                                 </div>
+                                <div class="col-lg-6 col-md-6 col-12">
+                                    <input type="text" id="phone" placeholder="Phone" name="phone" required>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-12">
+                                    <input type="text" id="postcode" placeholder="Postcode" name="postcode"
+                                        required>
+                                </div>
                                 <div class="col-lg-12">
                                     <input type="text" id="msg_subject" placeholder="Subject" name="subject"
                                         required>
                                 </div>
+                                <div class="col-lg-12" data-wow-delay=".2s">
+                                    <label for="services" class="form-label mb-3 mt-3">
+                                        <h5 class="text-white text-start">Type of service do you need?</h5>
+                                    </label>
+                                    <div class="row">
+                                        <div class="col-lg-3">
+                                            <div class="form-check">
+                                                <input class="form-check-input p-0" type="checkbox" id="garage_door_repair" name="garage_door_repair" value="Garage Door Repair">
+                                                <label class="form-check-label text-white" for="garage_door_repair">Garage Door Repair</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <div class="form-check">
+                                                <input class="form-check-input p-0" type="checkbox" id="garage_opener_installation" name="garage_opener_installation" value="Garage Opener Installation">
+                                                <label class="form-check-label text-white" for="garage_opener_installation">Garage Opener Installation</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <div class="form-check">
+                                                <input class="form-check-input p-0" type="checkbox" id="door_out_of_tracks" name="door_out_of_tracks" value="Door Out of Tracks">
+                                                <label class="form-check-label text-white" for="door_out_of_tracks">Door Out of Tracks</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <div class="form-check">
+                                                <input class="form-check-input p-0" type="checkbox" id="garage_door_installation" name="garage_door_installation" value="Garage Door Installation">
+                                                <label class="form-check-label text-white" for="garage_door_installation">Garage Door Installation</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <div class="form-check">
+                                                <input class="form-check-input p-0" type="checkbox" id="other" name="other" value="Other">
+                                                <label class="form-check-label text-white" for="other">Other</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <div class="col-lg-12">
                                     {{-- <textarea name="message" id="message" cols="30" rows="10" placeholder="Write Message"></textarea> --}}
                                     <textarea id="message" rows="7" placeholder="Massage" required name="message"></textarea>
